@@ -1,4 +1,4 @@
-# [`github.com/eins78/repositories`](https://github.com/eins78/repositories)
+# [`github.com/eins78`](https://github.com/eins78)
 
 ---
 
