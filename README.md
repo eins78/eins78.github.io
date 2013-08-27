@@ -1,4 +1,5 @@
-eins78.github.io
-================
+# [`github.com/eins78/repositories`](https://github.com/eins78/repositories)
 
-eins78 github page(s)
+---
+
+*(this is just to get URL redirects for project pages: `eins78.github.io` `=>` `code.178.is`)*
